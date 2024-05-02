@@ -21,3 +21,9 @@
 - Built a Django and pure HTML social media platform for dynamic user interactions and secure content sharing.
 - Implemented restful API for these identities: authors, followers, public and private posts and friend requests.
 - Inspired by the diaspora\* project and Activity Pub, Scripted’s server is decentralized and owned by users
+
+### Pathfinder
+
+- Utilized Dijkstra and A\* algorithms to optimize a pathfinder problem using an open-source video game data.
+- Performed multi-agent pathfinding for game problems of up to 50 agents simultaneously using CBS and A\*.
+- Designed and implemented a classical planner to solve block world problems

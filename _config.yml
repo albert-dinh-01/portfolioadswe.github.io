@@ -1,3 +1,4 @@
 title: Albert Dinh
-# theme: jekyll-theme-cayman
-remote_theme: jekyll/minima
+description: My work portfolio of all the projects that I have completed.
+theme: jekyll-theme-cayman
+# remote_theme: jekyll/minima
