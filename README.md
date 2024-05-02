@@ -27,3 +27,10 @@
 - Utilized Dijkstra and A\* algorithms to optimize a pathfinder problem using an open-source video game data.
 - Performed multi-agent pathfinding for game problems of up to 50 agents simultaneously using CBS and A\*.
 - Designed and implemented a classical planner to solve block world problems
+
+## Certifications
+
+- Google Data Analytics Professional Certificate
+- Google Cybersecurity Professional Certificate
+- Google IT Support Professional Certificate
+- Google Project Management Professional Certificate

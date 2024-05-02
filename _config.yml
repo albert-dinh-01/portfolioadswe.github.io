@@ -1,5 +1,4 @@
 title: Albert Dinh
 description: My work portfolio of all the projects that I have completed.
 logo: /assets/img/me.png
-theme: jekyll-theme-cayman
-# remote_theme: jekyll/minima
+theme: jekyll-theme-minimal
