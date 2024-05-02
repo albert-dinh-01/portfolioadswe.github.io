@@ -28,6 +28,14 @@
 - Performed multi-agent pathfinding for game problems of up to 50 agents simultaneously using CBS and A\*.
 - Designed and implemented a classical planner to solve block world problems
 
+## Technical Skills
+
+- **Languages**: Python, Java, C++, JavaScript, SQL, HTML, CSS
+- **Frameworks**: Django, Flask, React, Node.js, Express.js, Unity, Bootstrap, Materialize, Tailwind CSS, jQuery, AJAX, RESTful API, SQL, NoSQL, Firebase, MongoDB
+- **Tools**: Git, Docker, Kubernetes, Jenkins, Jira, Trello, Figma, XCode, Android Studio
+- **Methodologies**: Agile, Scrum
+- **Operating Systems**: Windows, MacOS, Linux
+
 ## Certifications
 
 - Google Data Analytics Professional Certificate
