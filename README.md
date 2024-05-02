@@ -9,4 +9,4 @@
 
 ### Remastered Pac-Man
 
-- TODO
+- Re-imagined and modern rendition of Pac-Man
