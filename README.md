@@ -50,7 +50,7 @@ To create meaningful and scalable solutions through innovative technologies and 
 
 ---
 
-## Featured Projects
+## Projects
 
 ### Linkify Instant Messaging
 
@@ -58,12 +58,14 @@ To create meaningful and scalable solutions through innovative technologies and 
 - **Details**: [View Linkify Detailed Page](#)
 - **Description**: A full-stack MERN application for real-time messaging and calls designed for individuals and teams.
 - **Tech Stack**: MongoDB, Express.js, React, Node.js, WebSockets, Render
+- **Domains**: `Full-Stack`, `Frontend`, `Backend`, `Web App`
 
 ### Scripted Distributed Social Networking
 
 - **Details**: [View Scripted Detailed Page](#)
 - **Description**: A full-stack web app built with Django, HTML and MongoDB
 - **Tech Stack**: Django, Python, HTML, CSS, MongoDB
+- **Domains**: `Full-Stack`, `Backend`, `Frontend`, `Cloud`, `Web App`
 
 ### Typing Speed Measure
 
@@ -71,12 +73,23 @@ To create meaningful and scalable solutions through innovative technologies and 
 - **Details**: [View Detailed Page](https://github.com/albert-dinh-01/TypingTest)
 - **Description**: A ReactJS app that measures user typing speed.
 - **Tech Stack**: TypeScript, React, Tailwind CSS, Netlify
+- **Domains**: `Frontend`, `UI/UX`, `Web App`
 
-### Pac-Man Remastered
+### Remastered Pac-Man
 
 - **URL**: [Pac-Man Remastered Gameplay](https://docs.google.com/presentation/d/1WdvFVx0A8iM3CwuGCEXK2dJr6snJWucXzj0oMgZ4gss/edit#slide=id.p1)
 - **Description**: A modern take on the classic Pac-Man game
 - **Tech Stack**: Unity, C#, Unity Photon Networking
+- **Domains**: `Game Development`
+
+#### Project Domain Legends
+
+- **Full-Stack**: Projects that involve both frontend and backend development.
+- **Frontend**: Focused on user interfaces and client-side interactions.
+- **Game Development**: Games or interactive applications built with game engines.
+- **Cloud**: Projects using cloud services like AWS or Azure.
+- **UI/UX**: Projects emphasizing design and user experience.
+- **Backend**: Server-side development and data management.
 
 ---
 
