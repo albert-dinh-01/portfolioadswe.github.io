@@ -55,14 +55,14 @@ To create meaningful and scalable solutions through innovative technologies and 
 ### Linkify Instant Messaging
 
 - **URL**: [Linkify Instant Messaging](https://linkify-front-33uh.onrender.com/)
-- **Details**: [View Linkify Detailed Page](#)
+- **Details**: View more information about the project [here](#)
 - **Description**: A full-stack MERN application for real-time messaging and calls designed for individuals and teams.
 - **Tech Stack**: MongoDB, Express.js, React, Node.js, WebSockets, Render
 - **Domains**: `Full-Stack`, `Frontend`, `Backend`, `Web App`
 
 ### Scripted Distributed Social Networking
 
-- **Details**: [View Scripted Detailed Page](#)
+- **Details**: View more information about the project [here](#)
 - **Description**: A full-stack web app built with Django, HTML and MongoDB
 - **Tech Stack**: Django, Python, HTML, CSS, MongoDB
 - **Domains**: `Full-Stack`, `Backend`, `Frontend`, `Cloud`, `Web App`
@@ -70,7 +70,7 @@ To create meaningful and scalable solutions through innovative technologies and 
 ### Typing Speed Measure
 
 - **URL**: [Typing Speed Measure](https://peaceful-muffin-0fc3d6.netlify.app/)
-- **Details**: [View Detailed Page](https://github.com/albert-dinh-01/TypingTest)
+- **Details**: View more information about the project [here](https://github.com/albert-dinh-01/TypingTest)
 - **Description**: A ReactJS app that measures user typing speed.
 - **Tech Stack**: TypeScript, React, Tailwind CSS, Netlify
 - **Domains**: `Frontend`, `UI/UX`, `Web App`
@@ -82,21 +82,29 @@ To create meaningful and scalable solutions through innovative technologies and 
 - **Tech Stack**: Unity, C#, Unity Photon Networking
 - **Domains**: `Game Development`
 
-#### Project Domain Legends
+### String Comparison Utility
 
-- **Full-Stack**: Projects that involve both frontend and backend development.
-- **Frontend**: Focused on user interfaces and client-side interactions.
-- **Game Development**: Games or interactive applications built with game engines.
-- **Cloud**: Projects using cloud services like AWS or Azure.
-- **UI/UX**: Projects emphasizing design and user experience.
-- **Backend**: Server-side development and data management.
+- **Deployed App URL**: [String Comparison Utility](https://scintillating-cascaron-956662.netlify.app/)
+- **Details**: View more information about the project [here](https://github.com/albert-dinh-01/stringComparison) or view demo of it on [YouTube](https://youtu.be/QHF0wP_412k)
+- **Description**: A ReactJS app that verifies the similarities of two strings of characters.
+- **Tech Stack**: TypeScript, React, Tailwind CSS, Netlify
+- **Domains**: `Frontend`, `UI/UX`, `Web App`
+
+> **Project Domain Legends**
+>
+> - **Full-Stack**: Projects that involve both frontend and backend development.
+> - **Frontend**: Focused on user interfaces and client-side interactions.
+> - **Game Development**: Games or interactive applications built with game engines.
+> - **Cloud**: Projects using cloud services like AWS or Azure.
+> - **UI/UX**: Projects emphasizing design and user experience.
+> - **Backend**: Server-side development and data management.
 
 ---
 
 ## Contact
 
 - **Email**: [adinh.1867@gmail.com](mailto:adinh.1867@gmail.com)
-- **LinkedIn**: [Albert Dinh](https://www.linkedin.com/in/albert-dinh-01)
+- **LinkedIn**: [Albert Dinh](https://www.linkedin.com/in/albertdinh19/)
 - **GitHub**: [albert-dinh-01](https://github.com/albert-dinh-01/)
 
 ---
