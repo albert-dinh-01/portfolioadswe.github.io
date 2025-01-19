@@ -1,6 +1,6 @@
 # Albert Dinh's Portfolio
 
-Hi! I'm Albert, a Computer Engineering graduate with a passion for building impactful solutions that solve real-world problems. With expertise in modern technologies like **React**, **Node.js**, **AWS**, and **Azure**, I strive to create scalable, user-friendly applications. My technical journey reflects continuous learning, hands-on project building, and a drive to innovate.
+Hi! I'm Albert, a Software Engineer and a Computer Engineering graduate with a passion for building impactful solutions that solve real-world problems. With expertise in modern technologies like **React**, **Node.js**, **AWS**, and **Azure**, I strive to create scalable, user-friendly applications. My technical journey reflects continuous learning, hands-on project building, and a drive to innovate.
 
 Outside of work, I enjoy running, biking, and exploring how technology intersects with business and society.
 
@@ -9,6 +9,14 @@ Outside of work, I enjoy running, biking, and exploring how technology intersect
 ## Mission Statement
 
 To create meaningful and scalable solutions through innovative technologies and collaborative efforts, contributing to a better and more connected world.
+
+---
+
+## Education
+
+### Bachelor of Science in Computer Engineering (Specialized in Software Engineering)
+
+- **University of Alberta** (September 2019 to May 2024)
 
 ---
 
@@ -38,7 +46,7 @@ To create meaningful and scalable solutions through innovative technologies and 
 - Microsoft Azure Fundamentals (AZ-900)
 - Microsoft AI Fundamentals (AI-900)
 - Microsoft Azure Data Fundamentals (DP-900)
-- CompTIA A+ Core 1
+- CompTIA A+ Core 1 - Focused on hardware, troubleshooting, and operating systems.
 
 ---
 
@@ -47,20 +55,20 @@ To create meaningful and scalable solutions through innovative technologies and 
 ### Linkify Instant Messaging
 
 - **URL**: [Linkify Instant Messaging](https://linkify-front-33uh.onrender.com/)
-- **Details**: [View Linkify Detailed Page](https://github.com/albert-dinh-01/linkify#readme)
+- **Details**: [View Linkify Detailed Page](#)
 - **Description**: A full-stack MERN application for real-time messaging and calls designed for individuals and teams.
 - **Tech Stack**: MongoDB, Express.js, React, Node.js, WebSockets, Render
 
 ### Scripted Distributed Social Networking
 
-- **Details**: [View Scripted Detailed Page](https://github.com/albert-dinh-01/scripted-social-network#readme)
+- **Details**: [View Scripted Detailed Page](#)
 - **Description**: A full-stack web app built with Django, HTML and MongoDB
 - **Tech Stack**: Django, Python, HTML, CSS, MongoDB
 
 ### Typing Speed Measure
 
 - **URL**: [Typing Speed Measure](https://peaceful-muffin-0fc3d6.netlify.app/)
-- **Details**: [View Detailed Page](https://github.com/albert-dinh-01/typing-speed-measure#readme)
+- **Details**: [View Detailed Page](https://github.com/albert-dinh-01/TypingTest)
 - **Description**: A ReactJS app that measures user typing speed.
 - **Tech Stack**: TypeScript, React, Tailwind CSS, Netlify
 
