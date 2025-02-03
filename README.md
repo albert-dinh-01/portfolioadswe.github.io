@@ -90,6 +90,13 @@ To create meaningful and scalable solutions through innovative technologies and 
 - **Tech Stack**: TypeScript, React, Tailwind CSS, Netlify
 - **Domains**: `Frontend`, `UI/UX`, `Web App`
 
+### Disperse (formerly Nodenet)
+
+- **Deployed App URL**: [Disperse](https://www.mydisperse.xyz/)
+- **Description**: A decentralized social networking platform inspired by diaspora\*, originally created as "Nodenet" during a university group project. After graduation, I continued development, adding AWS integration, Dockerization, and production hosting.
+- **Tech Stack**: Django, PostgreSQL, AWS (EC2, RDS, S3), Docker, Nginx, Gunicorn, Certbot (HTTPS)
+- **Domains**: `Full-Stack`, `Cloud`, `Backend`, `Web App`
+
 > **Project Domain Legends**
 >
 > - **Full-Stack**: Projects that involve both frontend and backend development.
