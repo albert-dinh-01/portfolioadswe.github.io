@@ -3,23 +3,23 @@
 ## **Overview**
 
 Disperse is a **decentralized social networking platform** inspired by [Diaspora\*](https://diasporafoundation.org/) and [ActivityPub](https://www.w3.org/TR/activitypub/).  
-Originally developed as a **University of Alberta group project**, the application enables users to share posts, interact with followers, and manage content in a **distributed** environment.
+Originally developed as a **University of Alberta group project**, the application enables users to share posts, interact with followers, and manage content in a **distributed** environment (which means that users can host their own instance of Disperse (Nodenet)).
 
-After the project ended, I added features to the project. And it has been significantly extended with **cloud deployment** and improved **scalability**.
+After the project ended, I added features to the project to build skills in using AWS services. And it has been significantly extended with **cloud deployment** on AWS. I originally attempted to deploy and run the containerized Docker version of this application onto AWS Elastic Container Service, but I found that it was too expensive for this project. So I decided to use a small and free AWS EC2 t2.micro instance, AWS RDS for PostgreSQL, and AWS S3 to deploy the application. I also added **Dockerization** and **HTTPS support** to the project.
 
-## **Acknowledgements**  
+## **Acknowledgements**
 
-This project was originally developed as **Nodenet** for the **CMPUT 404 group project** at the University of Alberta in the Fall 2023 semester with the following contributors:  
+This project was originally developed as **Nodenet** for the **CMPUT 404 group project** at the University of Alberta in the Fall 2023 semester (September 2023 to December 2023) with the following contributors:
 
-- **Albert Dinh**  
-- **Dhruvraj Singh**  
-- **Mobashhir Khan**  
-- **Daniel Asimiakwini**  
-- **Jaspreet Singh Dhami**  
+- **Albert Dinh**
+- **Dhruvraj Singh**
+- **Mobashhir Khan**
+- **Daniel Asimiakwini**
+- **Jaspreet Singh Dhami**
 
-While I have added features to the project post-graduation with **cloud deployment, Dockerization, and HTTPS support**, the foundational design was a collaborative effort.  
+While I have added features to the project post-graduation with **cloud deployment, Dockerization, and HTTPS support**, the foundational design was a collaborative effort.
 
-_Disperse remains inspired by the principles of decentralized social networking platforms like [diaspora*](https://diasporafoundation.org/)._  
+_Disperse remains inspired by the principles of decentralized social networking platforms like [diaspora\*](https://diasporafoundation.org/)._
 
 ## **Features**
 
