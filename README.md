@@ -55,7 +55,7 @@ To create meaningful and scalable solutions through innovative technologies and 
 ### Linkify Instant Messaging
 
 - **URL**: [Linkify Instant Messaging](https://linkify-front-33uh.onrender.com/)
-- **Details**: View more information about the project [here](#)
+- **Details**: View more information about the project [here](Linkify.md)
 - **Description**: A full-stack MERN application for real-time messaging and calls designed for individuals and teams.
 - **Tech Stack**: MongoDB, Express.js, React, Node.js, WebSockets, Render
 - **Domains**: `Full-Stack`, `Frontend`, `Backend`, `Web App`
