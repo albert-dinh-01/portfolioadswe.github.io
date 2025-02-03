@@ -2,10 +2,9 @@
 
 ## **Overview**
 
-Disperse is a **decentralized social networking platform** inspired by [Diaspora\*](https://diasporafoundation.org/) and [ActivityPub](https://www.w3.org/TR/activitypub/).  
-Originally developed as a **University of Alberta group project**, the application enables users to share posts, interact with followers, and manage content in a **distributed** environment (which means that users can host their own instance of Disperse (Nodenet)).
+Disperse is a **decentralized social networking platform** inspired by [Diaspora\*](https://diasporafoundation.org/) and [ActivityPub](https://www.w3.org/TR/activitypub/). Originally developed as a **University of Alberta group project**, the application enables users to share posts, interact with followers, and manage content in a **distributed** environment, which means that users can host their own instance of Disperse (Nodenet)!
 
-After the project ended, I added features to the project to build skills in using AWS services. And it has been significantly extended with **cloud deployment** on AWS. I originally attempted to deploy and run the containerized Docker version of this application onto AWS Elastic Container Service, but I found that it was too expensive for this project. So I decided to use a small and free AWS EC2 t2.micro instance, AWS RDS for PostgreSQL, and AWS S3 to deploy the application. I also added **Dockerization** and **HTTPS support** to the project.
+After the project ended, I added features to the project to build skills in using AWS services. And the project has been significantly extended with **cloud deployment** on AWS. I originally attempted to deploy and run the containerized **Docker** version of this application onto **AWS Elastic Container Service**, but I found that it was too expensive for this project. So I decided to use a small and free **AWS EC2 t2.micro** instance, **AWS RDS for PostgreSQL**, and **AWS S3** to deploy the application to the internet. I also added **Dockerization** and **HTTPS support** to the project.
 
 ## **Acknowledgements**
 
