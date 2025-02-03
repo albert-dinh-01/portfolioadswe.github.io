@@ -86,6 +86,7 @@ To create meaningful and scalable solutions through innovative technologies and 
 ### Disperse (formerly Nodenet)
 
 - **Deployed App URL**: [Disperse](https://www.mydisperse.xyz/)
+- **Details**: View more information about the project [here](Disperse.md)
 - **Description**: A decentralized social networking platform inspired by diaspora\*, originally created as "Nodenet" during a university group project. After graduation, I continued its development, adding AWS integration, Dockerization, and production hosting.
 - **Tech Stack**: Django, PostgreSQL, AWS (EC2, RDS, S3), Docker, Nginx, Gunicorn, Certbot (HTTPS)
 - **Domains**: `Full-Stack`, `Cloud`, `Backend`, `Web App`

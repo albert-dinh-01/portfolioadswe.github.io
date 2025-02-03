@@ -23,7 +23,7 @@ _Disperse remains inspired by the principles of decentralized social networking 
 
 ## **Features**
 
-### **Core Features**
+### **Core Features of Disperse (formerly Nodenet)**
 
 ✅ **Decentralized Architecture** – Users can self-host instances.  
 ✅ **RESTful API** – For inter-server communication.  
@@ -59,25 +59,14 @@ _Disperse remains inspired by the principles of decentralized social networking 
   - Nginx & Certbot (Reverse Proxy & HTTPS)
 - **API Security**: HTTP Basic Auth, Token Authentication
 
-## **Deployment Details**
-
-### **Live Demo**
+## **Live Demo**
 
 🔗 **[Visit Disperse](https://www.mydisperse.xyz/)**
 
-### **Infrastructure**
+## **Infrastructure**
 
 🌐 **Web Server** – Packaged with Docker and hosted on AWS **EC2**.
 💾 **Database** – Hosted on AWS **RDS for PostgreSQL**.  
 📦 **Containers** – Dockerized app deployed to AWS **EC2**.  
 🔐 **HTTPS Enabled** – SSL certificate issued via **Let's Encrypt**.  
 🛠️ **Reverse Proxy** – Nginx manages traffic between users & the app.
-
-### **Setup Instructions for Local Development**
-
-1️⃣ **Clone the Repository** (Private, Source Code Not Available)
-
-```bash
-git clone git@github.com:albert-dinh-01/disperse.git
-cd disperse
-```
